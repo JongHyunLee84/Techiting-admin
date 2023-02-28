@@ -31,9 +31,7 @@ struct LoginView: View {
                             .font(.system(size: 15, weight: .medium))
                             .foregroundColor(.black)
                             .padding(.bottom)
-                        Text("문의 (주)멋쟁이사자처럼 담당자 황유진")
-                            .font(.system(size: 15, weight: .medium))
-                            .foregroundColor(Color(hex: 0x676767))
+
                     }
                     .padding(.top, 133)
                     Spacer()
