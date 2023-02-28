@@ -51,7 +51,7 @@ struct AddSessionView: View {
     // MARK: - Category (카테고리)
     @State private var category: [String] = ["프론트","백엔드", "디자인", "블록체인"]
     // 카테고리 피커 돌리기
-    @State private var selectedCategory: String = ""
+    @State private var selectedCategory: String = "프론트"
     
     // MARK: - location 피커(3개 장소 임의로)
     @State private var location: String = ""
