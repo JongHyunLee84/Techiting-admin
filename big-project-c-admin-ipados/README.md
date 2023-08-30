@@ -2,7 +2,7 @@
  <p align="middle"><img src="https://user-images.githubusercontent.com/114331071/209800942-616496f5-b675-4a98-8fd2-4df86958fd5e.png" width=30%></p>
 
 
-## 유민영 강사님 앱 실행 가이드
+## 앱 실행 가이드
 ```
 1. main 브랜치에서 zip 파일을 다운로드 받아주세요.
 2. iPad Pro 11, Landscape Mode, Light Mode 환경에서 실행을 요청드립니다.
@@ -20,5 +20,3 @@
 ```
 사용자는 앱을 통해 앞으로 열릴 세미나를 등록, 수정, 삭제할 수 있습니다.
 ```
-
-## 참여자
